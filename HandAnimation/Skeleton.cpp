@@ -124,4 +124,18 @@ Bone* Skeleton::get_bone_by_ID(int ID)
 }
 
 
-
+//float Skeleton::CalculatePosition()
+//{
+//	float l1,l2; // BONE LENGTH FOR BONE 1 AND 2
+//	float ex,ey; // ADJUSTED TARGET POSITION
+//	float ex2,ey2;
+//	float sin2,cos2; // SINE AND COSINE OF ANGLE 2
+//	float angle1,angle2;  // ANGLE 1 AND 2 IN RADIANS
+//	
+//
+//
+//	ex = 0;
+//	ey = 0;
+//	return 0.0f;
+//}
+//
